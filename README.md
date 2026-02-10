@@ -6,11 +6,11 @@ End-to-end test automation framework built with Playwright and TypeScript/JavaSc
 
 ## 🛠 Tech Stack
 
-- **Playwright** — Modern web testing framework
-- **TypeScript / JavaScript** — Programming language
-- **Page Object Model (POM)** — Design pattern for maintainable tests
-- **GitHub Actions** — CI/CD pipeline integration
-- **Postman + Playwright Request Context** — API testing
+- Playwright — Modern web testing framework
+- TypeScript / JavaScript — Programming language
+- Page Object Model (POM) — Design pattern for maintainable tests
+- GitHub Actions — CI/CD pipeline integration
+- Postman + Playwright Request Context — API testing
 
 
 ```
