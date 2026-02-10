@@ -77,5 +77,6 @@ Tests run automatically on every push via GitHub Actions. See `.github/workflows
 
 Senior SDET | QA Automation Engineer
 
-[[LinkedIn](YOUR-LINKEDIN-URL)](https://www.linkedin.com/in/jitendra-chauhan/) | [Email](mailto:jitensingh716@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jitendra-chauhan/) | [Email](mailto:jitensingh716@gmail.com)
+
 ```
